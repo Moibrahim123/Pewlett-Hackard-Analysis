@@ -4,6 +4,14 @@
 
 In Pewlett-Hackard-Analysis, we learned about data modeling, engineering, and analysis. Applying our knowledge of DataFrames and tabular data, we created entity relationship diagrams (ERDs), import data into a database, troubleshot common errors, and created queries that use data to answer questions using SQL techniques.
 
+## Objectives
+
+-	Use an ERD to understand relationships between SQL tables.
+-	Create new tables in pgAdmin by using different joins.
+-	Write basic- to intermediate-level SQL statements.
+-	Export new tables to a CSV file.
+
+
 ## Number of [titles] Retiring
 
 We were instructed to create a new table using a RIGHT JOIN that contains Employee number, First and last name, Title, From_Date, and Salary. Then, export the data as a CSV. To create the new list of potential mentors, we created a query that returns a list of current employees eligible for retirement, as well as their most recent titles from my table there will be 65,428 retirees.
