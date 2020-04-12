@@ -14,7 +14,7 @@ In Pewlett-Hackard-Analysis, we learned about data modeling, engineering, and an
 
 ## Number of [titles] Retiring
 
-We were instructed to create a new table using a RIGHT JOIN that contains Employee number, First and last name, Title, From_Date, and Salary. Then, export the data as a CSV. To create the new list of potential mentors, we created a query that returns a list of current employees eligible for retirement, as well as their most recent titles from my table there will be 65,428 retirees.
+We were instructed to create a new table using a RIGHT JOIN that contains Employee number, First and last name, Title, From_Date, and Salary. Then, export the data as a CSV. To create the new list of potential mentors, we created a query that returns a list of current employees eligible for retirement, as well as their most recent titles from my table there will be 41,380 retirees.
 
 
 ## Only the Most Recent Titles
